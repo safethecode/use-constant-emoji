@@ -1,0 +1,33 @@
+{
+  "name": "use-constant-emoji",
+  "version": "0.0.1",
+  "description": "All emojis can be easily imported and used",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xBono/use-constant-emoji.git"
+  },
+  "keywords": [
+    "constant",
+    "emoji",
+    "typescript"
+  ],
+  "author": "iam@sonjim.in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xBono/use-constant-emoji/issues"
+  },
+  "homepage": "https://github.com/0xBono/use-constant-emoji#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "pluralize": "^8.0.0"
+  }
+}
