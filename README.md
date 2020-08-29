@@ -24,10 +24,11 @@ Now you can simply load emojis with one module and make them known to anyone ❤
 
 ### Example 🧑‍🏫
 [**Example in Github**](https://github.com/0xBono/use-constant-emoji/tree/master/example)
--
+
 [**Example in CodeSandbox**](https://codesandbox.io/s/use-constant-emoji-example-e28n0)
--
+
 <br>
+
 ### installation 🧑‍🔧
 
 ```bash
